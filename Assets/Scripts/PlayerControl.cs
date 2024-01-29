@@ -23,7 +23,7 @@ public class PlaterContrll : MonoBehaviour
         count = 0;
 
         SetCountText();
-        winTextObject.SetActive(false);    
+        winTextObject.SetActive(false);
 }
 
     void OnMove(InputValue movementValue)
